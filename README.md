@@ -62,9 +62,7 @@ I'm a B.Tech graduate in Information Science Engineering with an interest in bui
 - **GitHub:** [sohail800-jpg](https://github.com/sohail800-jpg)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/mohammed-sohail-13b25a420)
 
----
 
----
 
 ## 📊 GitHub Statistics
 
@@ -75,6 +73,12 @@ I'm a B.Tech graduate in Information Science Engineering with an interest in bui
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail800-jpg&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,git,github,vscode" />
 </p>
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
