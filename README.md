@@ -38,14 +38,15 @@ I'm a B.Tech graduate in Information Science Engineering with an interest in bui
 ### 2. Customer Segmentation Using K-Means
 - Machine Learning project using clustering techniques.
 - Customer grouping and segmentation analysis.
+🔗 [View GitHub Repository](https://github.com/sohail800-jpg/CUSTOMER-SEGMENTATION-USING-CLUSTERING)
 
 ### 3. Loan Approval Prediction
 - Machine Learning project for predicting loan approval outcomes.
+🔗 [View GitHub Repository](https://github.com/sohail800-jpg/LOAN-PREDICTION-SYSTEM)
 
 ### 4. Sales Forecasting
 - Time-series forecasting project for sales prediction.
-
----
+🔗 [View GitHub Repository](https://github.com/sohail800-jpg/SALES-FORCASTING-)
 
 ## 📚 Currently Learning
 
